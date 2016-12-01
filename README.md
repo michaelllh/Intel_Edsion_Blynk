@@ -6,3 +6,6 @@ Project Description:
 The image of project:
 
 ![image](https://github.com/michaelllh/Intel_Edsion_Blynk/img/intelligence_greenhouse.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/michaelllh/Intel_Edsion_Blynk/master/img/intelligence_greenhouse.jpg" />
+</p>
